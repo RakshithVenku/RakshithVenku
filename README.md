@@ -2,7 +2,7 @@
 
 ### 🔭 I’m currently looking for a front-end-developer job.
 
-* Passinate about building responsive web application.
+* Passionate about building responsive web application.
 
 <h3 align="left"> </h3>
 
