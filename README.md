@@ -4,7 +4,12 @@
 
 * Passionate about building responsive web application.
 
-<h3 align="left"> </h3>
+<h3 align="left">Connect with me:</h3>
+<p>
+   <a href="https://github.com/RakshithVenku" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" width="40" height="40"/> </a>
+  <a href="https://www.linkedin.com/in/rakshith-i-54a3b1146/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin"  width="40" height="40"/> </a>
+</p> 
+
 
 <h3 align="left">Languages and Tools:</h3>
 
