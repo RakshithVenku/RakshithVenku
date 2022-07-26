@@ -1,6 +1,6 @@
 ## Hi there, I'm Rakshith👋
 
-### 🔭 I’m currently looking for a front-end-developer job.
+### 🔭Currently working as Front-end-developer in DigiSprint Solutions.
 
 * Passionate about building responsive web application.
 
