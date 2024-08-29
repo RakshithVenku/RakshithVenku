@@ -1,6 +1,6 @@
 ## Hi there, I'm Rakshith👋
 
-### 🔭 Currently working as Front-end-developer in DigiSprint Solutions.
+### 🔭 Currently working as Front-end-developer in KogniVera.
 
 * Passionate about building responsive web application.
 
